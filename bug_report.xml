@@ -1,1 +1,7 @@
-
+xml>
+<ID>123.14</ID>
+<Summary>Net zapreta na vvod spec simvolov v pole vvoda imeni pri registracii novogo polzovatelya</Summary>
+<Shagi_k_vosproizvedeniiu>Otkrit stranicu https://page.pl/register, vvesti imya polzovatelya so spec simvolami, nazhat registaciya</Shagi_k_vosproizvedeniiu>
+<Ozhydaemyi_rezultat>Soobschenie ob oshibke</Ozhydaemyi_rezultat>
+<Fakticheskii_rezultat>Registraciya zavershena</akticheskii_rezultat>
+<Serezdnost>S2 Major</Serezdnost>
