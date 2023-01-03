@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about> 
+    <name>Valery</name>
+    <age>34</age>
+    <number_of_pets>1</number_of_pets>
+    <expected_salary currency="US dollar">2000</expected_salary>
+</about>
